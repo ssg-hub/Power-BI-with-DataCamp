@@ -77,7 +77,7 @@ Power BI and start your story with data.
 >**Prerequisites:** *Data Modeling with Power BI* , *Visualizing Data with Power BI*
 
 >**Learning Objectives:**
->Empower yourself with automations and advanced features of PowerBI. Design Clustering and Time Series models with ease in this course. Deploy auto query-answering with QnA.
+>Empower yourself with automations and advanced features of PowerBI. Perform descriptive analytic, construct clustering and time=series models and get quick insights. Deploy auto query-answering with QnA in this course.
 >
 >**Courses:**
 
