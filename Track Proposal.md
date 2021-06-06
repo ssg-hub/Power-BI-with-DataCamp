@@ -2,7 +2,7 @@
 
 ### Track Name - *Power BI : Fundamentals and Beyond*
 
-**Track Learning Objectives**
+**Track Learning Objectives** ( 6 courses)
 > Gain the Business Intelligence edge you always wanted 
 with the comprehensive  BI tool - Power BI from Microsoft.
 As Business Users or Data Analysts you will explore the 
