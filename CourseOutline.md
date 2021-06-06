@@ -38,25 +38,20 @@
 > >
 **Chapter 3 - Discovering AI visuals in Power BI**
 
-> **Lesson 3.1** Clustering and Time Series
-> >Learner will be able to apply clustering to datasets.
-> >
-> >Learner will be able to build time series charts with Play Axis feature.
+> **Lesson 3.1**  Key influencers visual 
 
-> **Lesson 3.2** Analyze data, Quick Insights and AI Insights Features
-> >Learner will be able to aggregate their data into groups or bins to implement clearer visuals.
-> >
-> >Learner will be able to leverage automated built-in feature and Machine Learning potential of Power BI.
-> >
-**Chapter 4 - **
+> >Learner will be able to automatically capture factors affecting a metric in this chapter 
 
-> **Lesson 4.1** Clustering and Time Series
-> >Learner will be able to apply clustering to datasets.
+> **Lesson 3.2** Decomposition Tree visual
+> >Learner will be able to use this visual for multi-dimensional view and futher RCA.
 > >
-> >Learner will be able to build time series charts with Play Axis feature.
+**Chapter 4 - Advance AI visual - QnA**
 
-> **Lesson 4.2** Analyze data, Quick Insights and AI Insights Features
-> >Learner will be able to aggregate their data into groups or bins to implement clearer visuals.
-> >
-> >Learner will be able to leverage automated built-in feature and Machine Learning potential of Power BI.
-> >
+> **Lesson 4.1** Setting up QnA feature
+> >Learner will be able to understand how to use natural langauage for querying data.
+> >Learner will be able to add and set up the QnA feature in reports.
+
+> **Lesson 4.2** Using the QnA feature to build visuals
+> >Learner will be able to understand greater value and reuse the visuals build by QnA feature.
+
+*End of Course Outline*
