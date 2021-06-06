@@ -16,7 +16,9 @@
 
 > **Lesson 1.1** Statistical Summary and TopN Analysis
 > >Learner will be able to explore and summurize the underlying statistics  of their dataset.
+> >
 > >Learner will be able to identify outliers in data.
+> >
 > >Learner will be able to learn 3 ways to get TopN values.
 
 > **Lesson 1.2** Grouping and Binning data
@@ -26,11 +28,35 @@
 
 > **Lesson 2.1** Clustering and Time Series
 > >Learner will be able to apply clustering to datasets.
+> >
 > >Learner will be able to build time series charts with Play Axis feature.
 
 > **Lesson 2.2** Analyze data, Quick Insights and AI Insights Features
 > >Learner will be able to aggregate their data into groups or bins to implement clearer visuals.
+> >
 > >Learner will be able to leverage automated built-in feature and Machine Learning potential of Power BI.
 > >
-**Chapter 3 - **
-**Chapter 4**
+**Chapter 3 - Discovering AI visuals in Power BI**
+
+> **Lesson 3.1** Clustering and Time Series
+> >Learner will be able to apply clustering to datasets.
+> >
+> >Learner will be able to build time series charts with Play Axis feature.
+
+> **Lesson 3.2** Analyze data, Quick Insights and AI Insights Features
+> >Learner will be able to aggregate their data into groups or bins to implement clearer visuals.
+> >
+> >Learner will be able to leverage automated built-in feature and Machine Learning potential of Power BI.
+> >
+**Chapter 4 - **
+
+> **Lesson 4.1** Clustering and Time Series
+> >Learner will be able to apply clustering to datasets.
+> >
+> >Learner will be able to build time series charts with Play Axis feature.
+
+> **Lesson 4.2** Analyze data, Quick Insights and AI Insights Features
+> >Learner will be able to aggregate their data into groups or bins to implement clearer visuals.
+> >
+> >Learner will be able to leverage automated built-in feature and Machine Learning potential of Power BI.
+> >
