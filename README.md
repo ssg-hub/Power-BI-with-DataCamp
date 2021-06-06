@@ -4,7 +4,7 @@
 
 ### *Business Intelligence Content Creator*
 
-This repository contains 2 additional **readme** files.
+This repository contains 2 additional files.
 
 1. Track Proposal
 2. Course Outline
