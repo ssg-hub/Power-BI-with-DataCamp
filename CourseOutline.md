@@ -45,13 +45,13 @@
 > **Lesson 3.2** Decomposition Tree visual
 > >Learner will be able to use this visual for multi-dimensional view and futher RCA.
 > >
-**Chapter 4 - Advance AI visual - QnA**
+**Chapter 4 - Advance AI visual - Q&A**
 
-> **Lesson 4.1** Setting up QnA feature
+> **Lesson 4.1** Setting up Q&A feature
 > >Learner will be able to understand how to use natural langauage for querying data.
-> >Learner will be able to add and set up the QnA feature in reports.
+> >Learner will be able to add and set up the Q&A feature in reports.
 
-> **Lesson 4.2** Using the QnA feature to build visuals
-> >Learner will be able to understand greater value and reuse the visuals build by QnA feature.
+> **Lesson 4.2** Using the Q&A feature to build visuals
+> >Learner will be able to understand greater value and reuse the visuals build by Q&A feature.
 
 *End of Course Outline*
