@@ -1,5 +1,5 @@
 ## Course Outline from track proposed
-### 5.Advanced Analytics with Power BI
+### 5. Advanced Analytics with Power BI
 >*Acquire skills to automate data models and answer stakeholder questions with Data Analysis in Power BI.* 
 
 >Acquire skills to automate data models and answer stakeholder questions with Data Analysis in Power BI. 
@@ -38,7 +38,7 @@
 > >
 **Chapter 3 - Discovering AI visuals in Power BI**
 
-> **Lesson 3.1**  Key influencers visual 
+> **Lesson 3.1**  Key Influencers visual 
 
 > >Learner will be able to automatically capture factors affecting a metric in this chapter 
 
